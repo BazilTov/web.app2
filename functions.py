@@ -1,4 +1,4 @@
-FILEPATH = '/Users/silmerci/PycharmProjects/web_app2/todos.txt'
+FILEPATH = 'todos.txt'
 
 
 def get_todos(filepath=FILEPATH):
